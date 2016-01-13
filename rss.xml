@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[nanoku]]></title>
         <description><![CDATA[nanoku]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nanoku.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 16:10:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 16:20:13 GMT</lastBuildDate>
+        <atom:link href="http://nanoku.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test test test</p>]]></description>
+            <link>http://nanoku.net/d9285544-196b-4eed-bd6f-00452b245163/index.html</link>
+            <guid isPermaLink="false">d9285544-196b-4eed-bd6f-00452b245163</guid>
+            <pubDate>Wed, 13 Jan 2016 16:20:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32cfdbec-e75e-4823-b5ae-6fd99420760a.png">]]></description>
-            <link>undefined85bdf9fe-a1a6-4f85-b586-ce81600f6be0/index.html</link>
+            <link>http://nanoku.net/85bdf9fe-a1a6-4f85-b586-ce81600f6be0/index.html</link>
             <guid isPermaLink="false">85bdf9fe-a1a6-4f85-b586-ce81600f6be0</guid>
             <pubDate>Wed, 13 Jan 2016 16:10:20 GMT</pubDate>
         </item>
